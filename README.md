@@ -23,6 +23,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginoquispe21&show_icons=true&locale=en" alt="ginoquispe21" /></p>  
 
-### Top Languages:
+### GitHub Streak:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginoquispe21&" alt="ginoquispe21" /></p>
+
+### Spotify Playing 🎧
+
+[<img  src="https://novatorem-iota-rose.vercel.app/api/spotify-playing"  alt="Spotify Now Playing"  width="350" />] (https://open.spotify.com/user/81aae2d266274434bde2df856333e582)
