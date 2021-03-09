@@ -29,4 +29,4 @@
 
 ### Spotify Playing 🎧
 
-[<img  src="https://novatorem-iota-rose.vercel.app/api/spotify-playing"  alt="Spotify Now Playing"  width="350" />] (https://open.spotify.com/user/81aae2d266274434bde2df856333e582)
+[<img  src="https://https://novatorem-f95iqdp64-ginoquispe21.vercel.app/api/spotify-playing"  alt="Spotify Now Playing"  width="350" />] (https://open.spotify.com/user/81aae2d266274434bde2df856333e582)
