@@ -3,7 +3,7 @@
  - I am currently studying at the University of Applied Sciences (UPC) 🤓
 - I’m a Software Engineering Studen 👨‍🎓
 - I'm currently studying everything necessary to be a good web developer 👨‍💻
-- 2021 Goals: Finish my portfolio with more than 3 finished projects 🥅
+- 2022 Goals: Finish my portfolio with more than 3 finished projects 🥅
 - I have fun playing games and exercising 🎮 🏃‍♂️
   
 <h3 align="left">Connect with me:</h3>  
