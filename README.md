@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gino Quispe Calixto</h1>  
 
- - I am currently studying at the University of Applied Sciences (UPC) 🤓
-- I’m a Software Engineering Studen 👨‍🎓
-- I'm currently studying everything necessary to be a good web developer 👨‍💻
-- 2022 Goals: Finish my portfolio with more than 3 finished projects 🥅
+- Currently I have a bachelor's degree in software engineering from the University of Applied Sciences (UPC), and I work for NTT Data Peru as a iOS developer. 🤓
+- I'm currently studying everything necessary to be a good mobile developer 👨‍💻
+- 2024 Goals: Finish my portfolio with more than 3 finished projects 🥅
 - I have fun playing games and exercising 🎮 🏃‍♂️
   
 <h3 align="left">Languages and Tools:</h3>  
